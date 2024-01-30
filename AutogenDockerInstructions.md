@@ -4,7 +4,7 @@
 
 The date is 24/01/2024.
 
-1. git clone https://github.com/microsoft/autogen
+1. git clone https://github.com/microsoft/autogen.git
 
 2. cd autogen/.devcontainer
 
