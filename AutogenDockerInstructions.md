@@ -4,9 +4,15 @@
 
 The date is 24/01/2024.
 
-1. git clone https://github.com/microsoft/autogen.git
+1.
 
-2. cd autogen/.devcontainer
+```shell
+   git clone https://github.com/microsoft/autogen.git
+```
+
+2. ```shell
+   cd autogen/.devcontainer
+   ```
 
 3. Run:
 
